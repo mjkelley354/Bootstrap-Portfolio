@@ -1,0 +1,25 @@
+.bio-name {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    float: left;
+    font-size: larger;
+    width: 250px;
+    height: 60px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 60px;
+}
+.navbar-custom {
+    float: right;
+    background-color: #ffffff;
+}
+.header-bar {
+    height: 60px;
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
+.about-me {
+    color: #4aaaa5;
+    font-size: x-large;
+    font-weight: bold;
+}
