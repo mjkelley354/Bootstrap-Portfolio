@@ -58,3 +58,46 @@ body {
 .port-item {
     margin: 10px;
 }
+.main-section {
+    float: left;
+    width: 100%;
+    padding: 30px;
+    margin: 0 0 40px;
+    background: #fff;
+}
+.work {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px;
+    overflow: auto;
+}
+h3 {
+    margin-bottom: 20px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #4aaaa5;
+    font-size: 22px;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    line-height: 22px;
+    border-bottom: 2px solid #eee;
+}
+.work h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+}
+.work img {
+    width: 100%;
+    border: 0 none;
+    opacity: 0.8;
+}
